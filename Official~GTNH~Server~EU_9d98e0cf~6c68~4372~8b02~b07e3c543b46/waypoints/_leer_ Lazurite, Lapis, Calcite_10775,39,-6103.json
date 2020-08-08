@@ -1,0 +1,17 @@
+{
+  "id": "\u003cleer\u003e Lazurite, Lapis, Calcite_10775,39,-6103",
+  "name": "\u003cleer\u003e Lazurite, Lapis, Calcite",
+  "icon": "waypoint-normal.png",
+  "x": 10775,
+  "y": 39,
+  "z": -6103,
+  "r": 116,
+  "g": 58,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

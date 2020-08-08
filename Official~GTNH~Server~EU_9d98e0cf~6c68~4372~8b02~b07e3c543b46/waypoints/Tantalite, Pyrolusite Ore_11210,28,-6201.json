@@ -1,0 +1,17 @@
+{
+  "id": "Tantalite, Pyrolusite Ore_11210,28,-6201",
+  "name": "Tantalite, Pyrolusite Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11210,
+  "y": 28,
+  "z": -6201,
+  "r": 255,
+  "g": 244,
+  "b": 25,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

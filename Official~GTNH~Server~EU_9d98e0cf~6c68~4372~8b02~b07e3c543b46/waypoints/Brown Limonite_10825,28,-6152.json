@@ -1,0 +1,17 @@
+{
+  "id": "Brown Limonite_10825,28,-6152",
+  "name": "Brown Limonite",
+  "icon": "waypoint-normal.png",
+  "x": 10825,
+  "y": 28,
+  "z": -6152,
+  "r": 224,
+  "g": 212,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

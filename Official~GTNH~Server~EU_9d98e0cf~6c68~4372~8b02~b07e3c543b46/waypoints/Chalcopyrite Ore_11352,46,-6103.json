@@ -1,0 +1,17 @@
+{
+  "id": "Chalcopyrite Ore_11352,46,-6103",
+  "name": "Chalcopyrite Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11352,
+  "y": 46,
+  "z": -6103,
+  "r": 175,
+  "g": 171,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

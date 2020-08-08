@@ -1,0 +1,17 @@
+{
+  "id": "Mica, Kyanite, Pollucite_10824,30,-6247",
+  "name": "Mica, Kyanite, Pollucite",
+  "icon": "waypoint-normal.png",
+  "x": 10824,
+  "y": 30,
+  "z": -6247,
+  "r": 215,
+  "g": 196,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

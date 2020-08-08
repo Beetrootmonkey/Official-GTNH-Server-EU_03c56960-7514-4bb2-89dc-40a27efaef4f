@@ -1,0 +1,17 @@
+{
+  "id": "1x Emerald Ore_11298,12,-5960",
+  "name": "1x Emerald Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11298,
+  "y": 12,
+  "z": -5960,
+  "r": 255,
+  "g": 236,
+  "b": 73,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

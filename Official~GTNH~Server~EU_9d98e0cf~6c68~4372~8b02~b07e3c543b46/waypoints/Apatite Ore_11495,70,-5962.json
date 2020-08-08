@@ -1,0 +1,17 @@
+{
+  "id": "Apatite Ore_11495,70,-5962",
+  "name": "Apatite Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11495,
+  "y": 70,
+  "z": -5962,
+  "r": 255,
+  "g": 243,
+  "b": 60,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

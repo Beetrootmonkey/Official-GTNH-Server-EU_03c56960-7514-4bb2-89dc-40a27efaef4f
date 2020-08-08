@@ -1,0 +1,17 @@
+{
+  "id": "Basaltic Mineral Sand_11306,54,-6154",
+  "name": "Basaltic Mineral Sand",
+  "icon": "waypoint-normal.png",
+  "x": 11306,
+  "y": 54,
+  "z": -6154,
+  "r": 253,
+  "g": 254,
+  "b": 33,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

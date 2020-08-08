@@ -1,0 +1,17 @@
+{
+  "id": "Chalcopyrite_10824,48,-6296",
+  "name": "Chalcopyrite",
+  "icon": "waypoint-normal.png",
+  "x": 10824,
+  "y": 48,
+  "z": -6296,
+  "r": 231,
+  "g": 239,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

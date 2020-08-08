@@ -1,0 +1,17 @@
+{
+  "id": "Diamond + Graphite Ore_11221,12,-5915",
+  "name": "Diamond + Graphite Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11221,
+  "y": 12,
+  "z": -5915,
+  "r": 255,
+  "g": 251,
+  "b": 11,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Cassiterite Sand_10824,58,-6104",
+  "name": "Cassiterite Sand",
+  "icon": "waypoint-normal.png",
+  "x": 10824,
+  "y": 58,
+  "z": -6104,
+  "r": 209,
+  "g": 232,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Zeolite_11063,60,-5815",
+  "name": "Zeolite",
+  "icon": "waypoint-normal.png",
+  "x": 11063,
+  "y": 60,
+  "z": -5815,
+  "r": 211,
+  "g": 205,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

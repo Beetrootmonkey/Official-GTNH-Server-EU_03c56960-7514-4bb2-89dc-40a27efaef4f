@@ -1,0 +1,17 @@
+{
+  "id": "Magnetite Ore_11066,42,-5913",
+  "name": "Magnetite Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11066,
+  "y": 42,
+  "z": -5913,
+  "r": 231,
+  "g": 239,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

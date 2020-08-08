@@ -1,0 +1,17 @@
+{
+  "id": "Nether Quartz_11520,46,-5048",
+  "name": "Nether Quartz",
+  "icon": "waypoint-normal.png",
+  "x": 11520,
+  "y": 46,
+  "z": -5048,
+  "r": 255,
+  "g": 195,
+  "b": 19,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

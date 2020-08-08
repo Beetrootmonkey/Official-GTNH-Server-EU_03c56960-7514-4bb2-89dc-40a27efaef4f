@@ -1,0 +1,17 @@
+{
+  "id": "Loot Game Dungeon_11257,63,-6068",
+  "name": "Loot Game Dungeon",
+  "icon": "waypoint-normal.png",
+  "x": 11257,
+  "y": 63,
+  "z": -6068,
+  "r": 52,
+  "g": 200,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

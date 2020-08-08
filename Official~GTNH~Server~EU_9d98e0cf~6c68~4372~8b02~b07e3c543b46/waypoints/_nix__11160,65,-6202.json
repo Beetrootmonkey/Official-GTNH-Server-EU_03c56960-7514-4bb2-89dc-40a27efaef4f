@@ -1,0 +1,17 @@
+{
+  "id": "\u003cnix\u003e_11160,65,-6202",
+  "name": "\u003cnix\u003e",
+  "icon": "waypoint-normal.png",
+  "x": 11160,
+  "y": 65,
+  "z": -6202,
+  "r": 117,
+  "g": 49,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

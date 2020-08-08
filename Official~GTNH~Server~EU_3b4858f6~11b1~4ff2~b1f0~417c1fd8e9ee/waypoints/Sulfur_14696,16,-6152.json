@@ -1,0 +1,17 @@
+{
+  "id": "Sulfur_14696,16,-6152",
+  "name": "Sulfur",
+  "icon": "waypoint-normal.png",
+  "x": 14696,
+  "y": 16,
+  "z": -6152,
+  "r": 209,
+  "g": 232,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

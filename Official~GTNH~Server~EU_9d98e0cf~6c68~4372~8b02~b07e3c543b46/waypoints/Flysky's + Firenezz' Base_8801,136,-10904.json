@@ -1,0 +1,17 @@
+{
+  "id": "Flysky\u0027s + Firenezz\u0027 Base_8801,136,-10904",
+  "name": "Flysky\u0027s + Firenezz\u0027 Base",
+  "icon": "waypoint-normal.png",
+  "x": 8801,
+  "y": 136,
+  "z": -10904,
+  "r": 25,
+  "g": 0,
+  "b": 232,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

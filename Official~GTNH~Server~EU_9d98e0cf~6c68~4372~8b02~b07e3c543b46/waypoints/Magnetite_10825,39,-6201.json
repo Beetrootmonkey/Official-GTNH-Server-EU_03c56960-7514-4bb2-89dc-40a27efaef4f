@@ -1,0 +1,17 @@
+{
+  "id": "Magnetite_10825,39,-6201",
+  "name": "Magnetite",
+  "icon": "waypoint-normal.png",
+  "x": 10825,
+  "y": 39,
+  "z": -6201,
+  "r": 210,
+  "g": 254,
+  "b": 3,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

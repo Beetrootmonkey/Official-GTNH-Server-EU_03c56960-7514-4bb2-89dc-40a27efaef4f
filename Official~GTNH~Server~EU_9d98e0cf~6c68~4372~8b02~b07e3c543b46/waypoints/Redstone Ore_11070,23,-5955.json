@@ -1,0 +1,17 @@
+{
+  "id": "Redstone Ore_11070,23,-5955",
+  "name": "Redstone Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11070,
+  "y": 23,
+  "z": -5955,
+  "r": 211,
+  "g": 205,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

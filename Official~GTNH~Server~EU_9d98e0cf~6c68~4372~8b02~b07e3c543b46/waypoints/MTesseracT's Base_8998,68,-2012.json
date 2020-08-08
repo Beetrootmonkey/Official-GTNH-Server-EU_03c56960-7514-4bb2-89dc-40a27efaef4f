@@ -1,0 +1,17 @@
+{
+  "id": "MTesseracT\u0027s Base_8998,68,-2012",
+  "name": "MTesseracT\u0027s Base",
+  "icon": "waypoint-normal.png",
+  "x": 8998,
+  "y": 68,
+  "z": -2012,
+  "r": 0,
+  "g": 12,
+  "b": 158,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

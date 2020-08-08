@@ -1,0 +1,17 @@
+{
+  "id": "Flootersm\u0027s Base_-2086,64,5164",
+  "name": "Flootersm\u0027s Base",
+  "icon": "waypoint-normal.png",
+  "x": -2086,
+  "y": 64,
+  "z": 5164,
+  "r": 0,
+  "g": 2,
+  "b": 175,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

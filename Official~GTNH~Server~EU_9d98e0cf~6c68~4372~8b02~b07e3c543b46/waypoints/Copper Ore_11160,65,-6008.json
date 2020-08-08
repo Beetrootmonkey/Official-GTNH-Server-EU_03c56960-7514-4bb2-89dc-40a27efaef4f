@@ -1,0 +1,17 @@
+{
+  "id": "Copper Ore_11160,65,-6008",
+  "name": "Copper Ore",
+  "icon": "waypoint-normal.png",
+  "x": 11160,
+  "y": 65,
+  "z": -6008,
+  "r": 227,
+  "g": 246,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
