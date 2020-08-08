@@ -1,0 +1,17 @@
+{
+  "id": "Lapis, Lazurite_10577,35,-5685",
+  "name": "Lapis, Lazurite",
+  "icon": "waypoint-normal.png",
+  "x": 10577,
+  "y": 35,
+  "z": -5685,
+  "r": 210,
+  "g": 254,
+  "b": 3,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

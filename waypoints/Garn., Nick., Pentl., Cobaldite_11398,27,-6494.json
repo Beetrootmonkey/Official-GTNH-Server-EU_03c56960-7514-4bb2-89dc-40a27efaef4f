@@ -1,0 +1,17 @@
+{
+  "id": "Garn., Nick., Pentl., Cobaldite_11398,27,-6494",
+  "name": "Garn., Nick., Pentl., Cobaldite",
+  "icon": "waypoint-normal.png",
+  "x": 11398,
+  "y": 27,
+  "z": -6494,
+  "r": 255,
+  "g": 244,
+  "b": 25,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

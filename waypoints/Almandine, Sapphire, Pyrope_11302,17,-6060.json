@@ -1,0 +1,17 @@
+{
+  "id": "Almandine, Sapphire, Pyrope_11302,17,-6060",
+  "name": "Almandine, Sapphire, Pyrope",
+  "icon": "waypoint-normal.png",
+  "x": 11302,
+  "y": 17,
+  "z": -6060,
+  "r": 213,
+  "g": 225,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

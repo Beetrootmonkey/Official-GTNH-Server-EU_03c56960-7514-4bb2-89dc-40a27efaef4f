@@ -1,0 +1,17 @@
+{
+  "id": "Soapstone, Pentlandite_11260,28,-6103",
+  "name": "Soapstone, Pentlandite",
+  "icon": "waypoint-normal.png",
+  "x": 11260,
+  "y": 28,
+  "z": -6103,
+  "r": 219,
+  "g": 154,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

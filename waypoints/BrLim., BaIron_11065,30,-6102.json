@@ -1,0 +1,17 @@
+{
+  "id": "BrLim., BaIron_11065,30,-6102",
+  "name": "BrLim., BaIron",
+  "icon": "waypoint-normal.png",
+  "x": 11065,
+  "y": 30,
+  "z": -6102,
+  "r": 253,
+  "g": 254,
+  "b": 33,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

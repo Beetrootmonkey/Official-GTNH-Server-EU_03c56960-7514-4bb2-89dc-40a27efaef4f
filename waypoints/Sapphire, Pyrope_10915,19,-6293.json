@@ -1,0 +1,17 @@
+{
+  "id": "Sapphire, Pyrope_10915,19,-6293",
+  "name": "Sapphire, Pyrope",
+  "icon": "waypoint-normal.png",
+  "x": 10915,
+  "y": 19,
+  "z": -6293,
+  "r": 224,
+  "g": 212,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

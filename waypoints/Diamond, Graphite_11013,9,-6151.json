@@ -1,0 +1,17 @@
+{
+  "id": "Diamond, Graphite_11013,9,-6151",
+  "name": "Diamond, Graphite",
+  "icon": "waypoint-normal.png",
+  "x": 11013,
+  "y": 9,
+  "z": -6151,
+  "r": 209,
+  "g": 232,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

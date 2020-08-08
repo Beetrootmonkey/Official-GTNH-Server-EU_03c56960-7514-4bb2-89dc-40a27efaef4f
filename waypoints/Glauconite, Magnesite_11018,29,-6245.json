@@ -1,0 +1,17 @@
+{
+  "id": "Glauconite, Magnesite_11018,29,-6245",
+  "name": "Glauconite, Magnesite",
+  "icon": "waypoint-normal.png",
+  "x": 11018,
+  "y": 29,
+  "z": -6245,
+  "r": 224,
+  "g": 212,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

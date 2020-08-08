@@ -1,0 +1,17 @@
+{
+  "id": "Silver, Lead, Galena_11160,33,-6294",
+  "name": "Silver, Lead, Galena",
+  "icon": "waypoint-normal.png",
+  "x": 11160,
+  "y": 33,
+  "z": -6294,
+  "r": 178,
+  "g": 197,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

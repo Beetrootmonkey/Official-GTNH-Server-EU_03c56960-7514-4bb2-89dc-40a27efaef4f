@@ -1,0 +1,17 @@
+{
+  "id": "Glauc., Bent., Oliv., Magnesite_11351,16,-6058",
+  "name": "Glauc., Bent., Oliv., Magnesite",
+  "icon": "waypoint-normal.png",
+  "x": 11351,
+  "y": 16,
+  "z": -6058,
+  "r": 255,
+  "g": 221,
+  "b": 6,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

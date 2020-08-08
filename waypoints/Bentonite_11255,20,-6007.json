@@ -1,0 +1,17 @@
+{
+  "id": "Bentonite_11255,20,-6007",
+  "name": "Bentonite",
+  "icon": "waypoint-normal.png",
+  "x": 11255,
+  "y": 20,
+  "z": -6007,
+  "r": 196,
+  "g": 243,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

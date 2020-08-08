@@ -1,0 +1,17 @@
+{
+  "id": "Perditio, Ordo_11017,10,-6062",
+  "name": "Perditio, Ordo",
+  "icon": "waypoint-normal.png",
+  "x": 11017,
+  "y": 10,
+  "z": -6062,
+  "r": 240,
+  "g": 205,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

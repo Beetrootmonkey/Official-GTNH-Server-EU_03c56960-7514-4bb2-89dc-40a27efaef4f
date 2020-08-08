@@ -1,0 +1,17 @@
+{
+  "id": "Glauconite_11160,37,-6153",
+  "name": "Glauconite",
+  "icon": "waypoint-normal.png",
+  "x": 11160,
+  "y": 37,
+  "z": -6153,
+  "r": 253,
+  "g": 254,
+  "b": 33,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
