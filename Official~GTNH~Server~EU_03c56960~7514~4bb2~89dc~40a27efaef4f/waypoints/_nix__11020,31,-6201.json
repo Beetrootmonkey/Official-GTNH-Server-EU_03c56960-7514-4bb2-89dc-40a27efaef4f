@@ -1,6 +1,6 @@
 {
-  "id": "Lapis, Lazurite_11020,31,-6201",
-  "name": "Lapis, Lazurite",
+  "id": "\u003cnix\u003e_11020,31,-6201",
+  "name": "\u003cnix\u003e",
   "icon": "waypoint-normal.png",
   "x": 11020,
   "y": 31,
@@ -8,7 +8,7 @@
   "r": 211,
   "g": 205,
   "b": 0,
-  "enable": true,
+  "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
