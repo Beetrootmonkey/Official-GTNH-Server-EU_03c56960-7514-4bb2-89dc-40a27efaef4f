@@ -1,0 +1,17 @@
+{
+  "id": "BrLim_11288,23,-5824",
+  "name": "BrLim",
+  "icon": "waypoint-normal.png",
+  "x": 11288,
+  "y": 23,
+  "z": -5824,
+  "r": 213,
+  "g": 225,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

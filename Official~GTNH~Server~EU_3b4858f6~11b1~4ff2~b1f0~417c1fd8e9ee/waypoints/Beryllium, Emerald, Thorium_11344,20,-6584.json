@@ -1,0 +1,17 @@
+{
+  "id": "Beryllium, Emerald, Thorium_11344,20,-6584",
+  "name": "Beryllium, Emerald, Thorium",
+  "icon": "waypoint-normal.png",
+  "x": 11344,
+  "y": 20,
+  "z": -6584,
+  "r": 224,
+  "g": 212,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
