@@ -1,0 +1,17 @@
+{
+  "id": "Basaltic_11351,73,-5865",
+  "name": "Basaltic",
+  "icon": "waypoint-normal.png",
+  "x": 11351,
+  "y": 73,
+  "z": -5865,
+  "r": 227,
+  "g": 246,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

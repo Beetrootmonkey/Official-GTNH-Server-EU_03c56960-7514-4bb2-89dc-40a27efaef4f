@@ -1,0 +1,17 @@
+{
+  "id": "Rock Salt_11304,59,-5671",
+  "name": "Rock Salt",
+  "icon": "waypoint-normal.png",
+  "x": 11304,
+  "y": 59,
+  "z": -5671,
+  "r": 255,
+  "g": 244,
+  "b": 25,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
