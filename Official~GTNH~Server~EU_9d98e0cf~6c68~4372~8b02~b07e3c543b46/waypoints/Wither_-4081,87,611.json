@@ -1,0 +1,17 @@
+{
+  "id": "Wither_-4081,87,611",
+  "name": "Wither",
+  "icon": "waypoint-normal.png",
+  "x": -4081,
+  "y": 87,
+  "z": 611,
+  "r": 127,
+  "g": 1,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
