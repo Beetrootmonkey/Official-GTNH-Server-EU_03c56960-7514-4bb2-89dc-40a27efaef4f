@@ -1,0 +1,17 @@
+{
+  "id": "Tainted Land_5800,70,4700",
+  "name": "Tainted Land",
+  "icon": "waypoint-normal.png",
+  "x": 5800,
+  "y": 70,
+  "z": 4700,
+  "r": 220,
+  "g": 24,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Letzter Tod oder so_7976,70,-8088",
+  "name": "Letzter Tod oder so",
+  "icon": "waypoint-normal.png",
+  "x": 7976,
+  "y": 70,
+  "z": -8088,
+  "r": 0,
+  "g": 8,
+  "b": 145,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

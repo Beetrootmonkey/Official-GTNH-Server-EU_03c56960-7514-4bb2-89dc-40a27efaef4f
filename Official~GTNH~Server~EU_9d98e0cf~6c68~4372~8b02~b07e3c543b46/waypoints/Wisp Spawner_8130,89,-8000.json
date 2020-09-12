@@ -1,0 +1,17 @@
+{
+  "id": "Wisp Spawner_8130,89,-8000",
+  "name": "Wisp Spawner",
+  "icon": "waypoint-normal.png",
+  "x": 8130,
+  "y": 89,
+  "z": -8000,
+  "r": 196,
+  "g": 163,
+  "b": 0,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
