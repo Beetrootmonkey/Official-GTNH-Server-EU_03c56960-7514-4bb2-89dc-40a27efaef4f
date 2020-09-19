@@ -1,0 +1,17 @@
+{
+  "id": "Awesome Samus\u0027s Base_-6989,146,-10474",
+  "name": "Awesome Samus\u0027s Base",
+  "icon": "waypoint-normal.png",
+  "x": -6989,
+  "y": 146,
+  "z": -10474,
+  "r": 0,
+  "g": 12,
+  "b": 203,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Obelisk_10842,66,-5734",
+  "name": "Obelisk",
+  "icon": "waypoint-normal.png",
+  "x": 10842,
+  "y": 66,
+  "z": -5734,
+  "r": 0,
+  "g": 48,
+  "b": 221,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

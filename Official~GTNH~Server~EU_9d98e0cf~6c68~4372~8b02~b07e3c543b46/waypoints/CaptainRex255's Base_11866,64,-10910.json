@@ -1,0 +1,17 @@
+{
+  "id": "CaptainRex255\u0027s Base_11866,64,-10910",
+  "name": "CaptainRex255\u0027s Base",
+  "icon": "waypoint-normal.png",
+  "x": 11866,
+  "y": 64,
+  "z": -10910,
+  "r": 0,
+  "g": 12,
+  "b": 203,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

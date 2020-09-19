@@ -1,0 +1,17 @@
+{
+  "id": "Red Granite_-4482,69,2768",
+  "name": "Red Granite",
+  "icon": "waypoint-normal.png",
+  "x": -4482,
+  "y": 69,
+  "z": 2768,
+  "r": 255,
+  "g": 244,
+  "b": 25,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
