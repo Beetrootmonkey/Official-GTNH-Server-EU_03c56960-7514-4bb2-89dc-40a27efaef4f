@@ -6,9 +6,9 @@
   "y": 68,
   "z": -2012,
   "r": 0,
-  "g": 12,
-  "b": 158,
-  "enable": false,
+  "g": 58,
+  "b": 232,
+  "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [

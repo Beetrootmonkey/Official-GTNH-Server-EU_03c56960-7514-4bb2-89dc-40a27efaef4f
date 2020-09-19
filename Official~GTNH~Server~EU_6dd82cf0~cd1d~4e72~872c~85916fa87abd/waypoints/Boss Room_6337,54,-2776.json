@@ -1,0 +1,17 @@
+{
+  "id": "Boss Room_6337,54,-2776",
+  "name": "Boss Room",
+  "icon": "waypoint-normal.png",
+  "x": 6337,
+  "y": 54,
+  "z": -2776,
+  "r": 207,
+  "g": 0,
+  "b": 16,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    50
+  ]
+}
