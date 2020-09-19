@@ -1,0 +1,17 @@
+{
+  "id": "Besen_7297,64,-11146",
+  "name": "Besen",
+  "icon": "waypoint-normal.png",
+  "x": 7297,
+  "y": 64,
+  "z": -11146,
+  "r": 39,
+  "g": 31,
+  "b": 162,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
