@@ -1,0 +1,17 @@
+{
+  "id": "Eldritch Obelisk w/ Cultists_11930,88,-4228",
+  "name": "Eldritch Obelisk w/ Cultists",
+  "icon": "waypoint-normal.png",
+  "x": 11930,
+  "y": 88,
+  "z": -4228,
+  "r": 0,
+  "g": 17,
+  "b": 149,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

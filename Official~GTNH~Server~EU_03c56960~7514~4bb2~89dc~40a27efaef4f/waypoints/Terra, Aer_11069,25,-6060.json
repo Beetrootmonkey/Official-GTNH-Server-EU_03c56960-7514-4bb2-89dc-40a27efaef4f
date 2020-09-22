@@ -5,10 +5,10 @@
   "x": 11069,
   "y": 25,
   "z": -6060,
-  "r": 249,
-  "g": 222,
+  "r": 215,
+  "g": 196,
   "b": 0,
-  "enable": false,
+  "enable": true,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [

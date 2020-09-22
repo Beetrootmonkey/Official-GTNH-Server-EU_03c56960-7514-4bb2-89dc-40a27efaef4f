@@ -1,0 +1,17 @@
+{
+  "id": "Eldritch Portal w/ Knights_11921,93,-8939",
+  "name": "Eldritch Portal w/ Knights",
+  "icon": "waypoint-normal.png",
+  "x": 11921,
+  "y": 93,
+  "z": -8939,
+  "r": 207,
+  "g": 0,
+  "b": 16,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
