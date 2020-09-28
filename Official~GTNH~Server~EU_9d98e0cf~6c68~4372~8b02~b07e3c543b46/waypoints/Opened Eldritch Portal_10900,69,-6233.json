@@ -1,0 +1,17 @@
+{
+  "id": "Opened Eldritch Portal_10900,69,-6233",
+  "name": "Opened Eldritch Portal",
+  "icon": "waypoint-normal.png",
+  "x": 10900,
+  "y": 69,
+  "z": -6233,
+  "r": 248,
+  "g": 255,
+  "b": 19,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
