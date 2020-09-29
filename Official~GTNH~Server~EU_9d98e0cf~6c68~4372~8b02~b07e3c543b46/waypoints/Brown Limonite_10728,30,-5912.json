@@ -1,17 +1,17 @@
 {
-  "id": "Sulfur_15168,12,-6056",
-  "name": "Sulfur",
+  "id": "Brown Limonite_10728,30,-5912",
+  "name": "Brown Limonite",
   "icon": "waypoint-normal.png",
-  "x": 15168,
-  "y": 12,
-  "z": -6056,
+  "x": 10728,
+  "y": 30,
+  "z": -5912,
   "r": 255,
   "g": 244,
   "b": 25,
-  "enable": true,
+  "enable": false,
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    -1
+    0
   ]
 }

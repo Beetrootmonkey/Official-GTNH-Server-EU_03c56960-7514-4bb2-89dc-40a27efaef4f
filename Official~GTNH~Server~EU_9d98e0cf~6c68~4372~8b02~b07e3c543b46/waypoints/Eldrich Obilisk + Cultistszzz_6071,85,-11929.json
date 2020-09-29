@@ -1,0 +1,17 @@
+{
+  "id": "Eldrich Obilisk + Cultistszzz_6071,85,-11929",
+  "name": "Eldrich Obilisk + Cultistszzz",
+  "icon": "waypoint-normal.png",
+  "x": 6071,
+  "y": 85,
+  "z": -11929,
+  "r": 185,
+  "g": 100,
+  "b": 135,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

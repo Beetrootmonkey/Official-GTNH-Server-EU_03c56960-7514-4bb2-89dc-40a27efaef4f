@@ -1,10 +1,10 @@
 {
-  "id": "Aqua, Ignis_10583,28,-5479",
-  "name": "Aqua, Ignis",
+  "id": "Magnetite_10631,40,-6200",
+  "name": "Magnetite",
   "icon": "waypoint-normal.png",
-  "x": 10583,
-  "y": 28,
-  "z": -5479,
+  "x": 10631,
+  "y": 40,
+  "z": -6200,
   "r": 255,
   "g": 221,
   "b": 6,
@@ -12,6 +12,6 @@
   "type": "Normal",
   "origin": "JourneyMap",
   "dimensions": [
-    7
+    0
   ]
 }

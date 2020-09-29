@@ -1,0 +1,17 @@
+{
+  "id": "Lapiz_10825,49,-5864",
+  "name": "Lapiz",
+  "icon": "waypoint-normal.png",
+  "x": 10825,
+  "y": 49,
+  "z": -5864,
+  "r": 255,
+  "g": 243,
+  "b": 60,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

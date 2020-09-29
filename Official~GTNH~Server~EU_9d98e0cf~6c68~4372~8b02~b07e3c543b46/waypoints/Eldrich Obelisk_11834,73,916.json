@@ -1,0 +1,17 @@
+{
+  "id": "Eldrich Obelisk_11834,73,916",
+  "name": "Eldrich Obelisk",
+  "icon": "waypoint-normal.png",
+  "x": 11834,
+  "y": 73,
+  "z": 916,
+  "r": 172,
+  "g": 0,
+  "b": 195,
+  "enable": false,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
