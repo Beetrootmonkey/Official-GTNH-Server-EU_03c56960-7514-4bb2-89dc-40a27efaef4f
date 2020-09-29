@@ -1,0 +1,17 @@
+{
+  "id": "Boss?_3445,54,3784",
+  "name": "Boss?",
+  "icon": "waypoint-normal.png",
+  "x": 3445,
+  "y": 54,
+  "z": 3784,
+  "r": 10,
+  "g": 142,
+  "b": 18,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    50
+  ]
+}

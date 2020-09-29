@@ -1,0 +1,17 @@
+{
+  "id": "Aqua, Ignis_11223,22,-5339",
+  "name": "Aqua, Ignis",
+  "icon": "waypoint-normal.png",
+  "x": 11223,
+  "y": 22,
+  "z": -5339,
+  "r": 213,
+  "g": 255,
+  "b": 38,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
