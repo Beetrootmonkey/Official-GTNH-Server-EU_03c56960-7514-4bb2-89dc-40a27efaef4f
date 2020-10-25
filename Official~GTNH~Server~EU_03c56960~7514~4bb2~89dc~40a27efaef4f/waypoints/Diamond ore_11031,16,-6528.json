@@ -1,0 +1,17 @@
+{
+  "id": "Diamond ore_11031,16,-6528",
+  "name": "Diamond ore",
+  "icon": "waypoint-normal.png",
+  "x": 11031,
+  "y": 16,
+  "z": -6528,
+  "r": 196,
+  "g": 243,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}

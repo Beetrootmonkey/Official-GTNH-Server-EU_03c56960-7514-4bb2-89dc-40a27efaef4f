@@ -1,0 +1,17 @@
+{
+  "id": "Aer + Tera_11049,22,-6956",
+  "name": "Aer + Tera",
+  "icon": "waypoint-normal.png",
+  "x": 11049,
+  "y": 22,
+  "z": -6956,
+  "r": 209,
+  "g": 232,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    7
+  ]
+}
