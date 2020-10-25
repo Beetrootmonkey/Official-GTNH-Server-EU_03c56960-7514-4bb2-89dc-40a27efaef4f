@@ -1,0 +1,17 @@
+{
+  "id": "Electrotine, Diatomite, Saltpete_11736,16,3624",
+  "name": "Electrotine, Diatomite, Saltpete",
+  "icon": "waypoint-normal.png",
+  "x": 11736,
+  "y": 16,
+  "z": 3624,
+  "r": 199,
+  "g": 255,
+  "b": 7,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
